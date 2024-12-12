@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+## A litle about me
+
+
 ```javascript
 const thai = {
     pronouns : "He" | "him",
