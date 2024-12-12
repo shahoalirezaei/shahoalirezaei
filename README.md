@@ -1,5 +1,18 @@
 ## Hi there 👋
 
+```javascript
+const thai = {
+    pronouns : "He" | "him",
+    langs: ["HTML", "Css", "Javascript"],
+    tools: [
+        React,
+        Tailwind,
+        BootsTrap
+    ],
+    chalenges: "I am foukocing on project for resume by js"
+};
+```
+
 <img src="https://github-readme-stats.vercel.app/api?username=shahoalirezaei&show_icons=true&theme=dark"/>
 ---
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahoalirezaei&exclude_repo=github-readme-stats,anuraghazra.github.io"/>
