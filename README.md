@@ -5,8 +5,10 @@
 ```javascript
 const shaho = {
     pronouns: "He" | "Him",
-    langs: ["HTML", "CSS", "JavaScript", "TypeScript"],
-    tools: ["React", "Next.js", "Redux", "Axios", "TailwindCSS", "Bootstrap"],
+    languages: ["HTML", "CSS", "JavaScript"],
+    typedSuperset: ["TypeScript"],
+    frameworksAndLibraries: ["React", "Next.js", "Redux"],
+    tools: ["Axios", "TailwindCSS", "Bootstrap"],
     challenges: "Currently focusing on Next.js projects to build my portfolio"
 };
 ```
