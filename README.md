@@ -4,13 +4,16 @@
 
 ```javascript
 const shaho = {
-    pronouns: "He" | "Him",
-    languages: ["HTML", "CSS", "JavaScript"],
-    typedSuperset: ["TypeScript"],
-    frameworksAndLibraries: ["React", "Next.js", "Redux"],
-    tools: ["Axios", "TailwindCSS", "Bootstrap"],
-    challenges: "Currently focusing on Next.js projects to build my portfolio"
+  pronouns: "He",
+  languages: ["HTML", "CSS", "JavaScript"],
+  typedSuperset: ["TypeScript"],
+  frameworksAndLibraries: ["React", "Next.js", "Redux"], // Redux library برای مدیریت state
+  tools: ["Axios", "TailwindCSS", "Bootstrap"],
+  challenges: "Currently focusing on Next.js projects to build my portfolio"
 };
+
+console.log(shaho);
+
 ```
 
 ---
